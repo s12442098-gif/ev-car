@@ -1,0 +1,43 @@
+.footer {
+  background: #111;
+  color: #fff;
+  padding: 22px 25px;
+}
+
+.footer-line {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 0 0 18px 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.footer-title {
+  font-size: 24px;
+  margin: 0 0 8px 0;
+}
+
+.footer-hint {
+  margin: 0 0 12px 0;
+  opacity: 0.9;
+}
+
+.footer-grid {
+  display: flex;
+  gap: 30px;
+}
+
+.footer-label {
+  margin: 0 0 8px 0;
+  font-weight: bold;
+}
+
+.footer-map {
+  width: 320px;
+  height: 180px;
+  object-fit: cover;
+}
