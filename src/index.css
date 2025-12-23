@@ -1,3 +1,7 @@
+
+@import "tailwindcss";
+
+
 * {
   box-sizing: border-box;
 }
@@ -30,4 +34,4 @@ a {
 }
 a:hover {
   opacity: 0.9;
-}
+} 
